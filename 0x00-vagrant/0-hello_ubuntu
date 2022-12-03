@@ -1,2 +1,3 @@
 echo > "-s, --kernel-name" 
 echo > "0-hello_ubuntu" -s, --kernel-name  
+ssh > "0-hello_ubuntu" -s, --kernel-name
